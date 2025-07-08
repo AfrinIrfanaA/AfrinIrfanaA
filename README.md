@@ -1,54 +1,48 @@
-## Hi there 👋
-
-<!--
-**AfrinIrfanaA/AfrinIrfanaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Hi there, I'm Afrin Irfana 👋
 
 ## 🚀 About Me
-I’m a student passionate about becoming a software engineer. I enjoy learning new technologies and building projects that solve real-world problems.
+I’m a dedicated student pursuing Artificial Intelligence and Data Science at **Syed Ammal Engineering College**. I am passionate about using software to solve real-world problems and building innovative AI-powered applications.
 
 ## 🛠 Skills
-- **Programming Languages**: Python, HTML, CSS, JavaScript
-- **Web Development**: React.js
-- **Tools**: Git, GitHub, Visual Studio Code
+- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks & Libraries**: React.js, Node.js, Express.js, Tailwind CSS
+- **Databases**: MongoDB, MySQL
+- **Tools**: Git, GitHub, VS Code, Postman, Figma
 
 ## 📚 Education
-- **University**:Syed Ammal Engineering College
-- **Major**: Artificial Intelligence And Data Science
+- 🎓 **B.E. Artificial Intelligence and Data Science**
+- 🏫 Syed Ammal Engineering College (2022–2026)
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/afrin-irfana-87b03b219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/afrin-irfana-a-87b03b219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 📈 GitHub Stats
-![Afrin Irfana's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Afrin Irfana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfrinIrfanaA&show_icons=true&theme=radical)
 
 ## 🔥 Projects
-### Ongoing Projects
-- [An Ai Driven Fashion Designer App](https://github.com/yourusername/project-repo):.This app senses your skin type according to the inputs you provide and recommends a makeup product tailored to your skin type. Additionally, it checks for allergies by analyzing product ingredients and suggests suitable products if you have any allergies.
 
+### 👩‍🔬 AI-Powered Makeup Recommendation App
+- **Description**: A smart application that recommends personalized makeup products based on skin tone, type, hair color, and allergies. Features AR try-on and links to major e-commerce platforms.
+- **Tech Stack**: React, Tailwind CSS, Node.js, MongoDB, ML Model, Electron
+
+### ⚖️ Law-Mate – Legal Info App
+- **Description**: A full-stack web application for managing legal case info, clients, and appointments with a clean admin dashboard. Built using Express, React, and MongoDB.
+- **Tech Stack**: React, Node.js, Express, MongoDB, Tailwind
+
+### 📚 Library Management System
+- **Description**: A complete digital library system with student login, book issuance, ID scan feature, and downloadable reports.
+- **Tech Stack**: React, Node.js, Express, MongoDB, Tailwind
 
 ## 🌟 Open Source Contributions
-### Contributions Made
-- **Pending Contributions**:  I am  actively looking to contribute to open source projects.
+- 🔍 Currently exploring open-source contributions
+- 🛠 Actively building full-stack and AI/ML-based apps
 
 ## 📖 Currently Learning
-- Deepening my knowledge in React.js and JavaScript.
-- Exploring backend development with Node.js.
-- Artificial Intelligence And Machine Learning
+- Advanced React and TypeScript
+- Backend development with Node.js and MongoDB
+- Artificial Intelligence and Deep Learning
+- Real-time Augmented Reality with Web APIs
 
+---
 
+_Thank you for visiting my profile! Feel free to connect and collaborate!_
